@@ -1,4 +1,4 @@
-# moz-todo-vue
+# to-do-app
 
 ## Project setup
 ```
